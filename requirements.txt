@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+nest_asyncio
+playwright
+google-generativeai
+pandas
+pdfplumber
+requests
+beautifulsoup4
+pydantic

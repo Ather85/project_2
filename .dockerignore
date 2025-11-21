@@ -1,0 +1,8 @@
+.git
+.venv
+pycache
+*.pyc
+# Ignore any downloaded data files from previous tests
+*.pdf
+.csv
+downloaded_data
